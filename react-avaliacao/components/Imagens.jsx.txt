@@ -1,0 +1,17 @@
+import React from "react";
+export default Imagens;
+
+function Imagens() {
+    return(
+        <div className="img0">
+            <div>
+                <img src="https://www.google.com/imgres?q=evento&imgurl=https%3A%2F%2Fpassevip.com.br%2Fwp-content%2Fuploads%2F2018%2F04%2F2018-04-23-como-aumentar-o-alcance-e-atrair-publico-para-seu-evento.jpg&imgrefurl=https%3A%2F%2Fpassevip.com.br%2Fatrair-o-publico-para-evento%2F&docid=ROuUGDbL8TEWCM&tbnid=kBm7-XHKe8gg4M&vet=12ahUKEwiFjMS15dWFAxVKO7kGHZfKAQ8QM3oECCEQAA..i&w=968&h=506&hcb=2&ved=2ahUKEwiFjMS15dWFAxVKO7kGHZfKAQ8QM3oECCEQAA" alt="" />
+                <img src="https://www.google.com/imgres?q=evento&imgurl=https%3A%2F%2Fpassevip.com.br%2Fwp-content%2Fuploads%2F2018%2F04%2F2018-04-23-como-aumentar-o-alcance-e-atrair-publico-para-seu-evento.jpg&imgrefurl=https%3A%2F%2Fpassevip.com.br%2Fatrair-o-publico-para-evento%2F&docid=ROuUGDbL8TEWCM&tbnid=kBm7-XHKe8gg4M&vet=12ahUKEwiFjMS15dWFAxVKO7kGHZfKAQ8QM3oECCEQAA..i&w=968&h=506&hcb=2&ved=2ahUKEwiFjMS15dWFAxVKO7kGHZfKAQ8QM3oECCEQAA" alt="" />
+                <img src="https://www.google.com/imgres?q=evento&imgurl=https%3A%2F%2Fpassevip.com.br%2Fwp-content%2Fuploads%2F2018%2F04%2F2018-04-23-como-aumentar-o-alcance-e-atrair-publico-para-seu-evento.jpg&imgrefurl=https%3A%2F%2Fpassevip.com.br%2Fatrair-o-publico-para-evento%2F&docid=ROuUGDbL8TEWCM&tbnid=kBm7-XHKe8gg4M&vet=12ahUKEwiFjMS15dWFAxVKO7kGHZfKAQ8QM3oECCEQAA..i&w=968&h=506&hcb=2&ved=2ahUKEwiFjMS15dWFAxVKO7kGHZfKAQ8QM3oECCEQAA" alt="" />
+                <img src="https://www.google.com/imgres?q=evento&imgurl=https%3A%2F%2Fpassevip.com.br%2Fwp-content%2Fuploads%2F2018%2F04%2F2018-04-23-como-aumentar-o-alcance-e-atrair-publico-para-seu-evento.jpg&imgrefurl=https%3A%2F%2Fpassevip.com.br%2Fatrair-o-publico-para-evento%2F&docid=ROuUGDbL8TEWCM&tbnid=kBm7-XHKe8gg4M&vet=12ahUKEwiFjMS15dWFAxVKO7kGHZfKAQ8QM3oECCEQAA..i&w=968&h=506&hcb=2&ved=2ahUKEwiFjMS15dWFAxVKO7kGHZfKAQ8QM3oECCEQAA" alt="" />
+                <img src="" alt="" />
+                <img src="" alt="" />
+            </div>
+        </div>
+    )
+}

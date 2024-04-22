@@ -1,0 +1,16 @@
+import React from "react";
+
+function Titulo() {
+    return(
+        <header className="header">
+            <div className="Logo">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJ8Bb2VLBR9_rJJmywJ2Y16O5XAprcx_Oew&s" alt="logo" />
+                <h2>Titulo de evento</h2>
+            </div>
+            
+
+        </header>
+    )
+}
+
+export default Titulo;
